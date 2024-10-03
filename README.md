@@ -1,5 +1,5 @@
 # Stringer - Multi-threaded Line Grepper
-A Python script that searches for a specific string in a text file and writes the matching lines to an output file. The script utilizes multithreading to enhance performance and provides a progress bar to indicate the search progress.
+A Python script that searches for a specific string in a text file and writes the matching lines to an output file.
 
 ## Features
 
@@ -19,7 +19,7 @@ A Python script that searches for a specific string in a text file and writes th
 python stringer.py
 ```
 
-3. Follow the prompts to enter:
+2. Follow the prompts to enter:
  - The path of the file to search. (C:\Users\Name\Downloads\bigtextfile.txt)
  - The string to search for.
  - The full path for the output file, including filename and .txt extension. (C:\Users\Name\Downloads\results.txt)
